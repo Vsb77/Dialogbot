@@ -1,0 +1,1 @@
+The bot sends questions, selecting questions from the list using the random module also uses the aiogram library
